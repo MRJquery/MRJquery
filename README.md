@@ -1,6 +1,4 @@
 ### Halo, I'm Ryan Prawira! 👋
 
-- 🔭 I’m currently working on a website project
-- 💬 Ask me about a web developer project
-- 📫 How to reach me: insatgram/twitter
--->
+Hi, I'm Muhammad Ryanprawira (her) man — a freelance and remote web developer at Home. I live in DKI Jakarta, Indonesia. I am a Fullstack Web Developer with PHP and Javascript as Backend, Vue as Frontend, Manage projects with git and understand to deploy and publish projects on cpanel or vps.
+
