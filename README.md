@@ -1,5 +1,8 @@
 ### My Name Is RyanPrawira 👋
-
+<p align="center" style="margin-top: 1rem;" >
+	<a href="https://twitter.com/{username}"><img src="https://img.shields.io/twitter/follow/{Username}?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="{linkedin URL}"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 <!--
 **MRJquery/MRJquery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
